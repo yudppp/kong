@@ -1,0 +1,17 @@
+{
+  "name": "kong-project",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.8.0",
+    "gulp-concat": "~2.4.1",
+    "ect": "~0.5.9"
+  }
+}
