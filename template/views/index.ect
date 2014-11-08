@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title><%= @title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <title></title>
 </head>
 <body>
     <div ng-view></div>
+    <script type="text/ng-template" id="<%= @path %>"><%= @preloadData %></script>
 </body>
 </html>
